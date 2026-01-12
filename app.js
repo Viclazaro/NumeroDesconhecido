@@ -1,12 +1,22 @@
-alert('Partiu jogar?'); //inicio
+// código omitido
 
-let SecretNumber = 8; //declarar a variável
-console.log('Número secreto é', SecretNumber) //somente para desenvolvedor
-let answer= prompt('Digite seu número entre 1 e 10'); //solicitar o número ao usuário
+alert('Boas vindas ao jogo do número secreto');
+let numeroSecreto = 5;
+console.log(numeroSecreto)
+let chute
 
-if(SecretNumber == answer){ //condição
-    alert(`Acertô mizeravi! Numeruzao é ${SecretNumber}`);
- } else {
-    alert('errou vei');
- }
- 
+// enquanto chute não for igual ao n.s.
+while (chute != numeroSecreto) {
+    chute = prompt('Escolha um número entre 1 e 10');
+    // se chute for igual ao número secreto
+   if (chute == numeroSecreto) { 
+        alert(`Isso ai! Você descobriu o número secreto ${numeroSecreto}`);
+   } else {
+      if (chute > numeroSecreto) {
+               alert(`O número secreto é menor que ${chute}`);
+      } else {
+            alert(`0 número secreto é maior que ${chute}`);
+      }
+   }
+
+}
