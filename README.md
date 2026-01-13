@@ -41,4 +41,6 @@ Ele acompanha o progresso das aulas da **Alura**, aplicando conceitos fundamenta
 ├── style.css
 ├── script.js
 └── README.md
+```
+
 
