@@ -88,12 +88,12 @@ Este projeto ajudou a praticar:
 
 ## ➢ Autora
 
-Projeto desenvolvido por **Vic** 
+Projeto desenvolvido por **Victória** 
 Estudante de Engenharia da Computação e aluna da Alura.
 
 ---
 
-➢ *Este projeto representa mais um passo na minha jornada de aprendizado em programação.*
+*✎Este projeto representa mais um passo na minha jornada de aprendizado em programação.*
 
 ---
 
