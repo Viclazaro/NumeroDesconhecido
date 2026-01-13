@@ -70,7 +70,7 @@ Ele acompanha o progresso das aulas da **Alura**, aplicando conceitos fundamenta
    ```
 
 3. Abra o arquivo `index.html` no navegador
-   ou utilize a extensão **Live Server** no VS Code 🌐
+   ou utilize a extensão **Live Server** no VS Code 
 
 ---
 
@@ -108,7 +108,7 @@ Estudante de Engenharia da Computação e aluna da Alura.
 ---
 
 ## 📄 Licença
-
+![Licença](https://img.shields.io/badge/licença-educacional-lightgrey)
 *Este projeto é apenas para fins educacionais, seguindo a proposta dos cursos da **Alura***
 
 
