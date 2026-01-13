@@ -93,7 +93,7 @@ Estudante de Engenharia da Computação e aluna da Alura.
 
 ---
 
-*✎Este projeto representa mais um passo na minha jornada de aprendizado em programação.*
+*✎... Este projeto representa mais um passo na minha jornada de aprendizado em programação.*
 
 ---
 
