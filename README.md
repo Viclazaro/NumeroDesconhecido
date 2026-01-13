@@ -55,12 +55,6 @@ Ele acompanha o progresso das aulas da **Alura**, aplicando conceitos fundamenta
 
 ---
 
-## 🚧 Status do Projeto
-
-🔄 **Em desenvolvimento** — o projeto pode receber melhorias conforme o avanço nos estudos e cursos da Alura.
-
----
-
 ## ▶️ Como Executar o Projeto
 
 1. Clone este repositório:
@@ -95,7 +89,7 @@ Este projeto ajudou a praticar:
 ## 🌱 Melhorias Futuras
 
 * Gerar números realmente aleatórios
-* Criar uma interface visual mais interativa 🎨
+* Criar uma interface visual mais interativa 
 * Substituir `alert` por mensagens na tela
 * Melhorar a experiência do usuário
 
@@ -112,7 +106,8 @@ Estudante de Engenharia da Computação e aluna da Alura.
 
 ---
 
-## 📄🧾 Licença
+## 📄 Licença
 
-Este projeto é apenas para fins educacionais, seguindo a proposta dos cursos da **Alura** 💻
+*Este projeto é apenas para fins educacionais, seguindo a proposta dos cursos da **Alura***
+
 
