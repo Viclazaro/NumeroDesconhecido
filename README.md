@@ -5,11 +5,11 @@
   <img src="https://img.shields.io/badge/FEITO%20COM-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=000&labelColor=2b2b2b"/>
 </p>
 
-<h1 align="center">🌸🎲 Número Desconhecido</h1>
+<h1 align="center">🎮🔢 Número Desconhecido</h1>
 
 <p align="center">
-  Um joguinho fofo para treinar lógica de programação em <strong>JavaScript</strong> 💻✨  
-  Desenvolvido durante os estudos na <strong>Alura</strong>.
+  Projeto desenvolvido para treinar <strong>lógica de programação</strong> utilizando <strong>JavaScript</strong>.  
+  Criado durante os estudos na <strong>Alura</strong>, com foco em fundamentos essenciais da programação.
 </p>
 
 ---
