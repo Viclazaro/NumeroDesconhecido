@@ -46,7 +46,6 @@ Ele acompanha o progresso das aulas da **Alura**, aplicando conceitos fundamenta
 ---
 
 ## ➢ Objetivo do Jogo
-![Objetivos](https://img.shields.io/badge/objetivos-definidos-blue)
 
 * Gerar um número secreto
 * Permitir que o usuário faça tentativas
@@ -87,7 +86,7 @@ Este projeto ajudou a praticar:
 
 ---
 
-## 👩‍💻 Autora
+## ➢ Autora
 
 Projeto desenvolvido por **Vic** 
 Estudante de Engenharia da Computação e aluna da Alura.
