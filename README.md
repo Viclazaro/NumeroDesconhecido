@@ -46,6 +46,7 @@ Ele acompanha o progresso das aulas da **Alura**, aplicando conceitos fundamenta
 ---
 
 ## ➢ Objetivo do Jogo
+![Objetivos](https://img.shields.io/badge/objetivos-definidos-blue)
 
 * Gerar um número secreto
 * Permitir que o usuário faça tentativas
