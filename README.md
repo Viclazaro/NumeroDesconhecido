@@ -42,65 +42,77 @@ Ele acompanha o progresso das aulas da **Alura**, aplicando conceitos fundamenta
 ├── script.js
 └── README.md
 ```
-🎯✨ Objetivo do Jogo
 
-Gerar um número secreto
+---
 
-Permitir que o usuário faça tentativas
+## 🎯✨ Objetivo do Jogo
 
-Informar se o chute é maior ou menor que o número secreto
+* Gerar um número secreto
+* Permitir que o usuário faça tentativas
+* Informar se o chute é maior ou menor que o número secreto
+* Contar o número de tentativas
+* Exibir uma mensagem de sucesso quando o número é descoberto 🎉💙
 
-Contar o número de tentativas
+---
 
-Exibir uma mensagem de sucesso quando o número é descoberto 🎉💙
+## 🚧💙 Status do Projeto
 
-🚧💙 Status do Projeto
+🔄 **Em desenvolvimento** — o projeto pode receber melhorias conforme o avanço nos estudos e cursos da Alura.
 
-🔄 Em desenvolvimento — o projeto pode receber melhorias conforme o avanço nos estudos e cursos da Alura.
+---
 
-▶️🐣 Como Executar o Projeto
+## ▶️🐣 Como Executar o Projeto
 
-Clone este repositório:
+1. Clone este repositório:
 
-git clone https://github.com/Viclazaro/NumeroDesconhecido.git
+   ```bash
+   git clone https://github.com/Viclazaro/NumeroDesconhecido.git
+   ```
 
-Acesse a pasta do projeto:
+2. Acesse a pasta do projeto:
 
-cd NumeroDesconhecido
+   ```bash
+   cd NumeroDesconhecido
+   ```
 
-Abra o arquivo index.html no navegadorou utilize a extensão Live Server no VS Code 🌐
+3. Abra o arquivo `index.html` no navegador
+   ou utilize a extensão **Live Server** no VS Code 🌐
 
-🧠💡 Aprendizados
+---
+
+## 🧠💡 Aprendizados
 
 Este projeto ajudou a praticar:
 
-Variáveis e tipos de dados
+* Variáveis e tipos de dados
+* Estruturas condicionais (`if / else`)
+* Laços de repetição (`while`)
+* Interação com o usuário (`prompt` e `alert`)
+* Organização básica de código JavaScript
 
-Estruturas condicionais (if / else)
+---
 
-Laços de repetição (while)
+## ✨🌱 Melhorias Futuras
 
-Interação com o usuário (prompt e alert)
+* Gerar números realmente aleatórios
+* Criar uma interface visual mais interativa 🎨
+* Substituir `alert` por mensagens na tela
+* Melhorar a experiência do usuário
 
-Organização básica de código JavaScript
+---
 
-✨🌱 Melhorias Futuras
+## 👩‍💻💙 Autora
 
-Gerar números realmente aleatórios
+Projeto desenvolvido por **Vic** 💙
+Estudante de Engenharia da Computação e aluna da Alura.
 
-Criar uma interface visual mais interativa 🎨
+---
 
-Substituir alert por mensagens na tela
+🌱 *Este projeto representa mais um passo na minha jornada de aprendizado em programação.*
 
-Melhorar a experiência do usuário
+---
 
-👩‍💻💙 Autora
+## 📄🧾 Licença
 
-Projeto desenvolvido por Vic 💙Estudante de Engenharia da Computação e aluna da Alura.
-
-🌱 Este projeto representa mais um passo na minha jornada de aprendizado em programação.
-
-📄🧾 Licença
-
-Este projeto é apenas para fins educacionais, seguindo a proposta dos cursos da Alura 💻📘
+Este projeto é apenas para fins educacionais, seguindo a proposta dos cursos da **Alura** 💻📘
 
