@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/FEITO%20COM-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=000&labelColor=2b2b2b"/>
 </p>
 
-<h1 align="center">🎮🔢 Número Desconhecido</h1>
+<h1 align="center">🔢 Número Desconhecido</h1>
 
 <p align="center">
   Projeto desenvolvido para treinar <strong>lógica de programação</strong> utilizando <strong>JavaScript</strong>.  
@@ -14,7 +14,7 @@
 
 ---
 
-## 🧠📘 Sobre o Projeto
+## 📘 Sobre o Projeto
 
 O **Número Desconhecido** é um projeto desenvolvido como parte do aprendizado inicial em programação.  
 Ele acompanha o progresso das aulas da **Alura**, aplicando conceitos fundamentais de lógica de forma prática e divertida.
@@ -23,7 +23,7 @@ Ele acompanha o progresso das aulas da **Alura**, aplicando conceitos fundamenta
 
 ---
 
-## 🛠️💙 Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white"/>
@@ -33,7 +33,7 @@ Ele acompanha o progresso das aulas da **Alura**, aplicando conceitos fundamenta
 
 ---
 
-## 🗂️📁 Estrutura do Projeto
+## 🗂️ Estrutura do Projeto
 
 ```bash
 📁 NumeroDesconhecido
@@ -45,23 +45,23 @@ Ele acompanha o progresso das aulas da **Alura**, aplicando conceitos fundamenta
 
 ---
 
-## 🎯✨ Objetivo do Jogo
+## 🎯 Objetivo do Jogo
 
 * Gerar um número secreto
 * Permitir que o usuário faça tentativas
 * Informar se o chute é maior ou menor que o número secreto
 * Contar o número de tentativas
-* Exibir uma mensagem de sucesso quando o número é descoberto 🎉💙
+* Exibir uma mensagem de sucesso quando o número é descoberto 
 
 ---
 
-## 🚧💙 Status do Projeto
+## 🚧 Status do Projeto
 
 🔄 **Em desenvolvimento** — o projeto pode receber melhorias conforme o avanço nos estudos e cursos da Alura.
 
 ---
 
-## ▶️🐣 Como Executar o Projeto
+## ▶️ Como Executar o Projeto
 
 1. Clone este repositório:
 
@@ -80,7 +80,7 @@ Ele acompanha o progresso das aulas da **Alura**, aplicando conceitos fundamenta
 
 ---
 
-## 🧠💡 Aprendizados
+## 💡 Aprendizados
 
 Este projeto ajudou a praticar:
 
@@ -92,7 +92,7 @@ Este projeto ajudou a praticar:
 
 ---
 
-## ✨🌱 Melhorias Futuras
+## 🌱 Melhorias Futuras
 
 * Gerar números realmente aleatórios
 * Criar uma interface visual mais interativa 🎨
@@ -101,9 +101,9 @@ Este projeto ajudou a praticar:
 
 ---
 
-## 👩‍💻💙 Autora
+## 👩‍💻 Autora
 
-Projeto desenvolvido por **Vic** 💙
+Projeto desenvolvido por **Vic** 
 Estudante de Engenharia da Computação e aluna da Alura.
 
 ---
@@ -114,5 +114,5 @@ Estudante de Engenharia da Computação e aluna da Alura.
 
 ## 📄🧾 Licença
 
-Este projeto é apenas para fins educacionais, seguindo a proposta dos cursos da **Alura** 💻📘
+Este projeto é apenas para fins educacionais, seguindo a proposta dos cursos da **Alura** 💻
 
