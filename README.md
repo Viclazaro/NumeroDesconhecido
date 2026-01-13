@@ -14,16 +14,16 @@
 
 ---
 
-## 📘 Sobre o Projeto
+## ➢ Sobre o Projeto
 
 O **Número Desconhecido** é um projeto desenvolvido como parte do aprendizado inicial em programação.  
 Ele acompanha o progresso das aulas da **Alura**, aplicando conceitos fundamentais de lógica de forma prática e divertida.
 
-🎯 O desafio do jogo é simples: descobrir qual é o **número secreto** escolhido pelo programa.
+- O desafio do jogo é simples: descobrir qual é o **número secreto** escolhido pelo programa.
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## ➢ Tecnologias Utilizadas
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white"/>
@@ -33,7 +33,7 @@ Ele acompanha o progresso das aulas da **Alura**, aplicando conceitos fundamenta
 
 ---
 
-## 🗂️ Estrutura do Projeto
+## ➢ Estrutura do Projeto
 
 ```bash
 📁 NumeroDesconhecido
@@ -45,7 +45,7 @@ Ele acompanha o progresso das aulas da **Alura**, aplicando conceitos fundamenta
 
 ---
 
-## 🎯 Objetivo do Jogo
+## ➢ Objetivo do Jogo
 
 * Gerar um número secreto
 * Permitir que o usuário faça tentativas
@@ -74,7 +74,7 @@ Ele acompanha o progresso das aulas da **Alura**, aplicando conceitos fundamenta
 
 ---
 
-## 💡 Aprendizados
+## ➢ Aprendizados
 
 Este projeto ajudou a praticar:
 
@@ -86,16 +86,6 @@ Este projeto ajudou a praticar:
 
 ---
 
-## 🌱 **Possíveis Evoluções**
-
--  Geração de números aleatórios
--  Interface gráfica mais interativa
--  Exibição de mensagens na tela
--  Limitação de tentativas
--  Melhorias de UX/UI
-
----
-
 ## 👩‍💻 Autora
 
 Projeto desenvolvido por **Vic** 
@@ -103,12 +93,12 @@ Estudante de Engenharia da Computação e aluna da Alura.
 
 ---
 
-🌱 *Este projeto representa mais um passo na minha jornada de aprendizado em programação.*
+➢ *Este projeto representa mais um passo na minha jornada de aprendizado em programação.*
 
 ---
 
 ## 📄 Licença
-![Licença](https://img.shields.io/badge/licença-educacional-lightgrey)
+
 *Este projeto é apenas para fins educacionais, seguindo a proposta dos cursos da **Alura***
 
 
