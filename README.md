@@ -86,12 +86,13 @@ Este projeto ajudou a praticar:
 
 ---
 
-## 🌱 Melhorias Futuras
+## 🌱 **Possíveis Evoluções**
 
-* Gerar números realmente aleatórios
-* Criar uma interface visual mais interativa 
-* Substituir `alert` por mensagens na tela
-* Melhorar a experiência do usuário
+-  Geração de números aleatórios
+-  Interface gráfica mais interativa
+-  Exibição de mensagens na tela
+-  Limitação de tentativas
+-  Melhorias de UX/UI
 
 ---
 
